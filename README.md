@@ -1,5 +1,5 @@
 # Initiative-Tracker
-An open source initiave tracker for D&D Parties of 1-6 Players.
+An open source initiave tracker for D&D Parties of 1-5 Players.
 
 # Getting Started
 1. Download the newest version for your operating syestem.
